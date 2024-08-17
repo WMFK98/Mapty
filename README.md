@@ -6,6 +6,9 @@
  
 The Mapty project is a dynamic web application developed as part of Jonas Schmedtmann’s course. This project focuses on building a map-based fitness tracker that allows users to log their workouts and visualize their routes on a map. It demonstrates various web development concepts, including map integration, form handling, and local storage.
 
+## Test
+https://mapty-orcin.vercel.app/
+
 ## Key Features
 
 - **Interactive Map**: Integrates with the Leaflet library to display a map where users can track their workout routes.
